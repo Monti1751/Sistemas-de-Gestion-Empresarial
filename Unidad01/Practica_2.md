@@ -35,39 +35,85 @@ Por ejemplo, SAP destaca por su enfoque integral hacia el ERP en la nube, mientr
 
 **• Investiga qué son los KPI y cómo se utilizan en la gestión empresarial.**
 
-Los Indicadores Clave de Rendimiento (KPI, por sus siglas en inglés) son métricas cuantitativas diseñadas para medir el grado de cumplimiento de los objetivos estratégicos de una organización. Permiten evaluar la eficacia de los procesos, detectar áreas de mejora y apoyar la toma de decisiones basadas en datos. 
+Un **KPI (Key Performance Indicator)** es una métrica cuantitativa que muestra cómo una empresa o equipo progresa hacia sus objetivos estratégicos.  
 
-Un KPI eficaz debe ser específico, medible, alcanzable, relevante y limitado en el tiempo. Además, debe estar alineado con los objetivos estratégicos de la empresa y ofrecer información útil para ajustar las estrategias operativas. Entre sus principales funciones destacan la planificación de recursos, la medición del progreso y la evaluación del desempeño. 
+Las empresas utilizan KPI en distintos niveles: corporativo, departamental o individual.  
+Un buen KPI debe ser **específico, medible, alcanzable, relevante y limitado en el tiempo (SMART)**.
 
-**• Da ejemplos de KPI aplicables a un sistema ERP (por ejemplo: tasa de entrega a tiempo, coste por unidad producida, rotación de inventario).**
+Los KPI permiten:
+- Evaluar si se avanza en los objetivos estratégicos.  
+- Medir la eficiencia de procesos.  
+- Facilitar la toma de decisiones basada en datos.  
+- Conectar las métricas operativas con los objetivos generales de la organización.
 
-En el ámbito de los sistemas ERP, los KPI son esenciales para monitorear procesos productivos y logísticos. Algunos ejemplos de KPI relevantes incluyen: 
+---
 
-- **Tasa de entrega a tiempo:** mide el porcentaje de pedidos entregados en la fecha acordada con el cliente. 
-- **Coste por unidad producida:** calcula el coste total de producción de un producto, incluyendo mano de obra y materiales. 
-- **Rotación de inventario:** evalúa la frecuencia con la que se renueva el inventario en un periodo determinado. 
-- **Eficiencia General del Equipo (OEE):** mide la productividad total del equipo y la disponibilidad de los recursos. 
-- **Tiempo de inactividad (Downtime):** registra los periodos en los que los equipos están fuera de operación. 
-- **Inventario en proceso (WIP):** analiza la cantidad de productos en producción en un momento determinado. 
+### Ejemplos de KPI aplicables a un sistema ERP
+
+| KPI | Fórmula | Qué mide |
+|------|----------|-----------|
+| **Tasa de entrega a tiempo** | (Pedidos entregados a tiempo / Pedidos totales) × 100 | Cumplimiento de fechas de entrega al cliente. |
+| **Coste por unidad producida** | (Costes totales de producción / Unidades producidas) | Eficiencia de costes de fabricación. |
+| **Rotación de inventario** | (COGS / Inventario promedio) | Frecuencia con que se renueva el inventario. |
+| **Eficiencia General del Equipo (OEE)** | Disponibilidad × Rendimiento × Calidad | Utilización efectiva de maquinaria y recursos. |
+| **Inventario en proceso (WIP)** | Productos en proceso / Total planificado | Flujo y nivel de trabajo en producción. |
+| **Tiempo de inactividad (Downtime)** | (Tiempo inactivo / Tiempo total) × 100 | Pérdidas de tiempo productivo por fallos o mantenimiento. |
+| **Tasa de rechazo o defectos** | (Unidades defectuosas / Unidades producidas) × 100 | Nivel de calidad del proceso productivo. |
+
+---
 
 ## Parte 3: Contraste de fuentes
 
 ### 4. Justificación de la información
 
 **• Por cada respuesta anterior, indica:**
-**  ◦ La fuente utilizada (enlace o nombre del sitio).**
-**  ◦ Por qué consideras que es fiable (autoridad, actualidad, especialización).**
-**  ◦ Compara al menos dos fuentes por tema y señala coincidencias o discrepancias.**
 
-Las fuentes utilizadas provienen de sitios oficiales, empresas tecnológicas reconocidas y plataformas especializadas en análisis empresarial. Se priorizaron documentos actualizados, emitidos por organizaciones con autoridad en el sector tecnológico. 
+***◦ La fuente utilizada (enlace o nombre del sitio).***
 
-A continuación, se justifica la fiabilidad y se realiza la comparación de fuentes por tema: 
+***◦ Por qué consideras que es fiable (autoridad, actualidad, especialización).***
 
-**• Cuadrante Mágico de Gartner:** Las fuentes de Gartner (2024) y Oracle (2024) ofrecen información directa y actual sobre la metodología y resultados del Cuadrante Mágico. Ambas coinciden en destacar la importancia de la ejecución y la visión como criterios principales de evaluación. Sin embargo, mientras Gartner mantiene un enfoque analítico imparcial, Oracle enfatiza su propio posicionamiento como líder, mostrando una perspectiva más comercial. SAP (2024) respalda los criterios de Gartner al tiempo que resalta la innovación en la nube como tendencia clave, lo que coincide parcialmente con Oracle pero desde una visión más centrada en el producto. 
+***◦ Compara al menos dos fuentes por tema y señala coincidencias o discrepancias.***
 
-**• Indicadores Clave de Rendimiento (KPI):** Las fuentes de Asana (2024) y MrPeasy (2024) coinciden en definir los KPI como métricas fundamentales para medir el rendimiento empresarial. Ambas destacan la necesidad de que los indicadores sean específicos y medibles. No obstante, mientras Asana adopta una perspectiva más general y orientada a la gestión de proyectos, MrPeasy y Geinfor se enfocan en la aplicación industrial y en procesos de producción. Clavei (2024) complementa estas visiones con ejemplos aplicados a la gestión de inventarios, coincidiendo en la importancia de la alineación entre KPI y objetivos estratégicos. 
+### Cuadrante Mágico de Gartner
 
-## Webgrafía (formato APA)
+**Fuentes utilizadas:**
+- [Gartner España – Metodología Magic Quadrant](https://www.gartner.es/es/metodologias/magic-quadrant)  
+- [Oracle ERP Cloud – Gartner 2024](https://www.oracle.com/il-en/erp/gartner-product-centric-magic-quadrant/)  
+- [SAP News – SAP líder en ERP Cloud 2024](https://news.sap.com/2024/11/sap-a-leader-2024-gartner-magic-quadrant-cloud-erp-for-service-centric-enterprises-product-centric-enterprises/)  
+- [Workday – Informe Gartner 2024](https://forms.workday.com/es-es/reports/gartner-financial-management-magic-quadrant-cloud-erp-service/form.html)  
+- [GB Advisors – Guía rápida del Cuadrante Mágico](https://www.gb-advisors.com/es/blog/cuadrante-magico-de-gartner-guia-rapida)
+
+**Por qué son fiables:**
+- Gartner es la fuente original de la metodología y publica informes actualizados cada año.  
+- Oracle, SAP y Workday confirman oficialmente su posición de liderazgo en comunicados recientes (2024).  
+- GB Advisors ofrece una explicación técnica clara y alineada con la definición oficial.
+
+**Comparación de fuentes:**
+- Coinciden en los líderes (Oracle, SAP, Microsoft, Workday).  
+- Las diferencias se deben al tipo de empresa analizada (product-centric o service-centric), pero no a los criterios de evaluación.
+
+---
+
+### Indicadores clave de rendimiento (KPI)
+
+**Fuentes utilizadas:**
+- [Asana – Qué son los KPI](https://asana.com/es/resources/key-performance-indicator-kpi)  
+- [MrPeasy – KPIs de gestión de inventarios](https://www.mrpeasy.com/blog/es/kpis-de-gestion-de-inventarios/)  
+- [Geinfor – KPIs de proceso de producción](https://geinfor.com/kpis-proceso-produccion/)  
+- [Clavei – Principales KPI](https://www.clavei.es/blog/principales-kpis/)
+
+**Por qué son fiables:**
+- Asana es una plataforma reconocida internacionalmente en gestión empresarial.  
+- MrPeasy, Geinfor y Clavei son fuentes especializadas en ERP y producción industrial, con contenidos técnicos actualizados.  
+
+**Comparación de fuentes:**
+- Coinciden en definir los KPI como métricas medibles y estratégicas.  
+- Asana enfatiza la metodología SMART, mientras que MrPeasy, Geinfor y Clavei aportan ejemplos específicos de aplicación industrial.  
+- No existen discrepancias conceptuales, solo diferencias de enfoque (teórico vs. práctico).
+
+---
+
+## Webgrafía
 
 Asana. (2024). Indicadores clave de rendimiento (KPI). Recuperado de https://asana.com/es/resources/key-performance-indicator-kpi 
 
