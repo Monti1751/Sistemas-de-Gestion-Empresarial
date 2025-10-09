@@ -19,3 +19,4 @@ La práctica ha sido realizada por ICEBLOCK 🧊 cuyos integrantes son:
 ## Archivos
 
 - `Practica_1.md`: Contenido completo de la práctica.
+- `Practica_2.md`: Contenido completo de la práctica.
